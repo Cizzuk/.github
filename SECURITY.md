@@ -1,3 +1,3 @@
 # Security Policy
 To report a security issue, please contact me. https://cizzuk.net/contact/  
-My OpenPGP public key is here. https://cizzuk.net/pgp/
+Here is my OpenPGP public key for encryption. https://cizzuk.net/security/openpgp/
